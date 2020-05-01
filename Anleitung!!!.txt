@@ -1,0 +1,30 @@
+Danke, dass du dich für dieses Programm entschieden hast.
+
+Um dieses Programm erfolgreich zu benutzen sind ein paar erste Schritte nötig.
+1.Da dieses Programm Python-Basiert ist brauchst du Python. Einfach hier downloaden: https://www.python.org/downloads/
+WICHTIG: Bei der Insallation musst du python zu Path hinzufüge!! Das machst du, auf der einer der ersten Seiten im Installationsmanager.
+Einfach das Kästchen mit "Zu Path hinzufügen anklicken". 
+2.Nachdem du Python erfolgreich installiert hast, gibs du in der Konsole(cmd.exe)"python get-pip.py"ein. 
+Dadurch inizialisierst du das Treiberprogramm.
+3. Nachdem der Befehl erfolgreich ausgeführt wurde, gibs du "pip install youtube_dl" in die Konsole ein.Dannach gib "pip install colorama" ein. 
+3. Schließe die Konsole und suche nach youtube-dl.exe auf deinem PC. Verschiebe die 3 Anwendungen in den gleichen Ordner, 
+wo auch youtube-dl gespeichert ist.
+4. Youtube_Downloader ausführen und den Anweisungen folgen.
+5.Die Konsole die bei der Benutzung des Downloaders aufploppt kannst du nach erfolgreichem downloaden einfach schließen. 
+Nach jedem Punkt PC neu staten, dass die Änderungen übernommen werden!!
+
+Viel Spaß
+Joachim Lugger, Developer
+
+
+Tipps:
+Um den Speicherpfad zu finden mache in dem Ordner inwelchen du das Video speichern willst einen neuen Ordner, 
+Rechtsklick auf den neuen Ordner und auf Eigenschaften. Da steht Ort: .........
+
+Es kann manchmal sein, dass das System überlastet ist. Dann kommt eine Error Meldung(Too many request oder so). Diese einfach ignoriern und etwas später 
+erneut versuchen.
+
+Wenn die Error Meldung "ERROR: unable to download video data: HTTP Error 403: Forbidden" kommt, einfach "youtube-dl --rm-cache-dir" in die Konsole(cmd.exe) eingeben.
+
+
+Bei Fragen frag bitte beim Verkäufer nach meiner E-Mail
